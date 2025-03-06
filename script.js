@@ -241,3 +241,5 @@ function updateProductInDom(item) {
 // 4. Добавление стилистики
 // 
 // Вносим изменение в новой ветке
+
+// test commit
